@@ -1,4 +1,4 @@
-module main
+module github.com/reavessm/todo
 
 go 1.20
 
